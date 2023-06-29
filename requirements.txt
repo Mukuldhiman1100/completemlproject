@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+
+## It will run setup.py directly whenever we run requirements.tx
+-e.
